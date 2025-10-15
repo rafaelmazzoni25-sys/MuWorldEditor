@@ -1,0 +1,4 @@
+﻿  DllEntry.cpp
+  Max2009ModelExporter.cpp
+  Gerando Código...
+C:\Users\rafae\Downloads\MuOnline\Sources\wodegongjubao-master\Max2009ModelExporter\Max2009ModelExporter.cpp(32,10): error C1083: Não é possível abrir arquivo incluir: 'Vec3D.h': No such file or directory
